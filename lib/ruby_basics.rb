@@ -15,7 +15,7 @@ def greeting(gtg, nom)
 end
 
 def return_a_value
-
+puts "Nice"
 end
 
 def last_evaluated_value
