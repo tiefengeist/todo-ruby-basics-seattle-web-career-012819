@@ -10,8 +10,8 @@ def argue(arg)
    arg
 end
 
-def greeting
-
+def greeting(gtg, nom)
+"#{gtg}, #{nom}! How's your day?"
 end
 
 def return_a_value
