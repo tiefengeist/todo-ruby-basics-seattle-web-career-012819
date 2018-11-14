@@ -22,6 +22,6 @@ def last_evaluated_value
 puts "Expert"
 end
 
-def pizza_party
-
+def pizza_party(name = 'cheese')
+puts "#{name}"
 end
